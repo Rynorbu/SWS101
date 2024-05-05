@@ -220,6 +220,10 @@ The port 22 hhtp has a critical vulnerability in the Apache web server 2.2.8 tha
 
 This can be improved by apply the latest security patch for Apache web server (version 2.4.50 or higher) and ensure that all web servers are updated to the latest version.
 
+### Remediation Summary
+
+Most of the ports that are running on the server have many vulnerabilities such that attackers can create or uploads files on many ports and gain unauthorized access to the server. Exposing this vulnerability can make easy task for hackers and can lead to loss of information and unauthorized access. So, to prevent this make sure to update up to the latest version.
+
 
 ## Recommendations
 
@@ -229,6 +233,6 @@ The server has many vulnerabilities and it is recommended to update the server a
 
 I was able to exploit atleast 4 ports and gain access to the server. The sever has many vulnerabilities and it is recommended to update the server and patch the vulnerabilities. It indicates that the machine has many vulnerabilities that could be exploited by many tools in many ways. 
 
-It is important to note that it is mendatory to update the server and patch the vulnerabilities to prevent unauthorized access and loss of informations. Failure to do so will lead to serious consequences, such as unauthorized access, loss of sensitive information, and reputational damage.
+It is important to note that it is mendatory to update the server up to latest version to prevent unauthorized access and loss of informations. Failure to do so will lead to serious consequences, such as unauthorized access, loss of sensitive information, and reputational damage.
 
 
